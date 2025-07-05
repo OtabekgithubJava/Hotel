@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-evenly;
+    padding: 20px;
+    background-color: #edf2f4;
+}
+
+.bir{
+    display: flex;
+}
+
+.uch{
+    display: flex;
+}
+
+i{
+    font-size: 25px;
+    padding: 10px;
+}
+
+h1{
+    margin-top: 4%;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #db5461;
+}
+
+.bir i{
+    color: #ec5b6a;
+}
+
+.ikki i{
+    color: #52796f;
+    margin-right: 40px;
+}
+
+p{
+    margin-top: 6%;
+    margin-left: 10px;
+    margin-right: 15px;
+    color: gray;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+
+.uch i{
+    color: #00a8e8;
+    margin-left: 10px;
+}
+
+
+.ikki{
+    display: flex;
+}
