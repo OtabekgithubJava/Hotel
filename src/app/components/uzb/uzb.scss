@@ -1,0 +1,35 @@
+.container{
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+    border-top: 2px solid aqua;
+}
+
+.carts{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.cart{
+    width: 15%;
+    height: auto;
+}
+
+
+.cart img{
+    width: 220px;
+    height: 200px;
+    border-radius: 25px;
+}
+
+
+p{
+    color: gray;
+    font-size: 15px;
+}
+
+h1{
+    padding: 10px;
+    margin-left: 15px;
+}
